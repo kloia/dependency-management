@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>tz.go.ega</groupId>
+    <groupId>com.kloia</groupId>
     <artifactId>parent-pom</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -118,7 +118,7 @@
                         <version>${maven.checkstyle.puppycrawl.version}</version>
                     </dependency>
                     <dependency>
-                        <groupId>tz.go.ega</groupId>
+                        <groupId>com.kloia</groupId>
                         <artifactId>checkstyle-config</artifactId>
                         <version>${checkstyle.config.version}</version>
                     </dependency>

@@ -111,7 +111,7 @@ First starting with checkstyle.
 	                <version>${maven.checkstyle.puppycrawl.version}</version>
 	            </dependency>
 	            <dependency>
-	                <groupId>tz.go.ega</groupId>
+	                <groupId>com.kloia</groupId>
 	                <artifactId>checkstyle-config</artifactId>
 	                <version>${checkstyle.config.version}</version>
 	            </dependency>
@@ -322,7 +322,7 @@ You called parent pom from child pom as below.
 
 ```
     <parent>
-        <groupId>tz.go.ega</groupId>
+        <groupId>com.kloia</groupId>
         <artifactId>parent-pom</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>

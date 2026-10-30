@@ -1,3 +1,6 @@
+> **Archived.** This repository is no longer maintained
+> and is kept read-only. It may be removed in the future.
+
 # dependency-management
 
 ## dependency management 
@@ -399,6 +402,3 @@ You can override `plugin` configuration in child pom.
 </plugin>
 
 ```
-
-
-
